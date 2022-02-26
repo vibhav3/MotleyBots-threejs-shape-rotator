@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4cF4C18972Eb5964202Eb2420261Aa8723Fe0338",
+  "SCAN_LINK": "https://polygonscan.com/address/0x4cF4C18972Eb5964202Eb2420261Aa8723Fe0338",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "MotleyBots",
+  "SYMBOL": "MB",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 1000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpeanSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/motleybots",
+  "SHOW_BACKGROUND": false
+}

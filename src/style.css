@@ -1,0 +1,71 @@
+:root {
+    --primary: #212529;
+    --primary-text: #f8f9fa;
+    --secondary: #0a58ca;
+    --secondary-text: #f8f9fa;
+    --accent: #6c757d;
+    --accent-text: #0dcaf0;
+  }
+  
+  html{
+    background-color: rgb(33, 37, 41);
+  }
+  
+  body{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background-color: slategray;
+  }
+  
+  code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+      monospace;
+  }
+  
+  
+  .webgl
+  {
+      top: auto;
+      left: auto;
+      outline: none;
+      width: 100vh;
+  }
+  
+  .mb-logo{
+    width: 64px;
+  }
+  
+  .mb-icon{
+    width: 32px;
+  }
+  
+  .mb-project-feature{
+    width: 128px;
+  }
+  
+  .text-orange{
+    color: orange;
+  }
+  
+  .text-pink{
+    color: palevioletred;
+  }
+  
+  .text-lightseagreen{
+    color: lightseagreen;
+  }
+  
+  .text-lightblue{
+    color: lightskyblue;
+  }
+  
+  .text-greenyellow{
+    color: greenyellow;
+  }
+  
+  .text-gold{
+    color: goldenrod;
+  }
